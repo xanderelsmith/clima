@@ -1,6 +1,7 @@
 # clima
 
-A new Flutter project.
+A new Flutter project built to tell the weather of a particular location
+.
 
 ## Getting Started
 
